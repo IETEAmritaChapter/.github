@@ -10,6 +10,7 @@ Whether you’re interested in tech or non-tech areas, we offer opportunities fo
 
 We dive deep into various exciting tech domains to foster growth and innovation.
 
+<div align="center">
 <table>
   <tr>
     <td style="text-align: center;">
@@ -36,13 +37,14 @@ We dive deep into various exciting tech domains to foster growth and innovation.
     <td align="center"><strong>🔧 Embedded and Robotics</strong></td>
   </tr>
 </table>
-
+</div>
 ---
 
 ## 🌟 **Non-Tech Domains We Explore**
 
 We also offer a variety of non-tech domains to help students develop well-rounded skills in communication, event management, and creativity!
 
+<div align="center">
 <table>
   <tr>
     <td style="text-align: center;">
@@ -61,6 +63,7 @@ We also offer a variety of non-tech domains to help students develop well-rounde
     <td align="center"><strong>🎨 Design & Media</strong></td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -98,5 +101,3 @@ We’d love to hear from you! Connect with us on social media, or send us an ema
     </a>
   </div>
 </div>
-
----
