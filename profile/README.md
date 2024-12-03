@@ -38,6 +38,7 @@ We dive deep into various exciting tech domains to foster growth and innovation.
   </tr>
 </table>
 </div>
+
 ---
 
 ## 🌟 **Non-Tech Domains We Explore**
@@ -78,11 +79,8 @@ At IETE Amrita Coimbatore, we engage our members through various activities that
 
 Stay tuned for upcoming activities and events! 🎉
 
----
+![Untitled design (1)](https://github.com/user-attachments/assets/c364f4fa-429f-4555-b6dd-8d320ec1c1fc)
 
-## 📢 **Get in Touch**
-
-We’d love to hear from you! Connect with us on social media, or send us an email:
 
 <div align="center">
   <h3>📬 Stay Connected with IETE Amrita</h3>
@@ -101,3 +99,4 @@ We’d love to hear from you! Connect with us on social media, or send us an ema
     </a>
   </div>
 </div>
+
