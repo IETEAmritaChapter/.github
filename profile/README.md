@@ -93,7 +93,7 @@ We’d love to hear from you! Connect with us on social media, or send us an ema
     <a href="mailto:ietesf@cb.amrita.edu">
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://wa.me/yourwhatsapplink" target="_blank">
+    <a href="https://chat.whatsapp.com/EaQtTt7U4ClKEz26g9ddii" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
   </div>
