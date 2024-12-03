@@ -11,33 +11,35 @@ Whether you’re interested in tech or non-tech areas, we offer opportunities fo
 We dive deep into various exciting tech domains to foster growth and innovation.
 
 <div align="center">
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/424794af-f64e-483f-b309-37377f75864f" alt="AI" style="width: 100px; height: 100px; object-fit: cover;" />
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/d01ee219-7846-4978-92a6-0b176f5b0ab7" alt="App Development" style="width: 100px; height: 100px; object-fit: cover;" />
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/ac066ec3-0465-4fd0-960b-fb275dd17bc6" alt="Web Development" style="width: 100px; height: 100px; object-fit: cover;" />
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/f66417fe-696a-41a6-aa0f-0594e172b17a" alt="Competitive Programming" style="width: 100px; height: 100px; object-fit: cover;" />
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/c2e5369f-ef99-49f7-a713-6a8cf2682518" alt="Embedded and Robotics" style="width: 100px; height: 100px; object-fit: cover;" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>🤖 Artificial Intelligence</strong></td>
-    <td align="center"><strong>📱 App Development</strong></td>
-    <td align="center"><strong>🌐 Web Development</strong></td>
-    <td align="center"><strong>💻 Competitive Programming</strong></td>
-    <td align="center"><strong>🔧 Embedded and Robotics</strong></td>
-  </tr>
-</table>
+  <table style="table-layout: fixed; width: auto;">
+    <tr>
+      <td style="text-align: center; width: 100px;">
+        <img src="https://github.com/user-attachments/assets/424794af-f64e-483f-b309-37377f75864f" alt="AI" style="width: 100px; height: 100px; object-fit: cover;" />
+      </td>
+      <td style="text-align: center; width: 100px;">
+        <img src="https://github.com/user-attachments/assets/d01ee219-7846-4978-92a6-0b176f5b0ab7" alt="App Development" style="width: 100px; height: 100px; object-fit: cover;" />
+      </td>
+      <td style="text-align: center; width: 100px;">
+        <img src="https://github.com/user-attachments/assets/ac066ec3-0465-4fd0-960b-fb275dd17bc6" alt="Web Development" style="width: 100px; height: 100px; object-fit: cover;" />
+      </td>
+      <td style="text-align: center; width: 100px;">
+        <img src="https://github.com/user-attachments/assets/f66417fe-696a-41a6-aa0f-0594e172b17a" alt="Competitive Programming" style="width: 100px; height: 100px; object-fit: cover;" />
+      </td>
+      <td style="text-align: center; width: 100px;">
+        <img src="https://github.com/user-attachments/assets/c2e5369f-ef99-49f7-a713-6a8cf2682518" alt="Embedded and Robotics" style="width: 100px; height: 100px; object-fit: cover;" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🤖 Artificial Intelligence</strong></td>
+      <td align="center"><strong>📱 App Development</strong></td>
+      <td align="center"><strong>🌐 Web Development</strong></td>
+      <td align="center"><strong>💻 Competitive Programming</strong></td>
+      <td align="center"><strong>🔧 Embedded and Robotics</strong></td>
+    </tr>
+  </table>
 </div>
+
+
 
 ---
 
