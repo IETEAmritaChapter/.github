@@ -1,4 +1,4 @@
-# IETE Amrita Coimbatore
+![Amrita Vishwa Vidyapeetham (1)](https://github.com/user-attachments/assets/9bccc1e7-9458-46ad-8d8a-94dcbc8c26b0)
 
 Welcome to the **IETE Club at Amrita**! We are a student-run organization at **Amrita Vishwa Vidyapeetham, Coimbatore**, dedicated to bridging the gap between **computer science** and **electronics**. Our mission is to provide a platform for students to explore, innovate, and collaborate across a variety of domains, including **software development**, **embedded systems**, and **hardware design**. 
 
